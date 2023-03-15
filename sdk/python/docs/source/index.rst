@@ -17,7 +17,7 @@ Config
 .. autoclass:: feast.repo_config.RepoConfig
     :members:
 
-.. autoclass:: feast.repo_config.RegistryConfig
+.. autoclass:: feast.repo_config.RegistryConfigs
     :members:
 
 Data Source
